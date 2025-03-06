@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://discord.com/users/1054813732355719308">
+    <img src="https://lanyard.cnrad.dev/api/1054813732355719308?theme=dark&animated=true&hideStatus=false&hideClan=false&hideProfile=false&hideSpotify=false&showDisplayName=false&hideDecoration=false&hideTimestamp=false&hideBadges=false&hideActivity=true&hideDiscrim=false" />
+  </a>
+</div>
 
-<!--
-**DroskaR00T/DroskaR00T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+# ⚡ Droska | Creative Developer 🚀
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Playground!+💻;Full-Stack+Developer+⚡;Innovation+Enthusiast+💡;Code+Craftsman+🛠️;Open+Source+Contributor+🌟)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://streak-stats.demolab.com?user=&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DroskaR00T&theme=tokyonight" alt="Profile Details"/>
+
+</div>
+
+## 🤝 Contact
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](<https://discord.com/users/1054813732355719308>)
+
+</div>
+
+---
+  
+  ### ⭐ Show some ❤️ by starring some repositories!
+
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+</div>
